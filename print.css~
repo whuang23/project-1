@@ -40,17 +40,17 @@ p {
   text-align: left;
 }
 
-a {  
+a{  
   color: white;
   text-align: left;
   text-decoration: none;
 }
 
-ul.list {
+ul.list{
   text-indent: 1em;
   text-align: left;
 }
 
-li {
+li{
   list-style: none;
 }

@@ -12,18 +12,18 @@
 
 <div id="head">
 <h1 >Weicheng Huang</h1>
-<p class="intro">3303 S State Street,Chicago</p>
-<p class="intro">IL,60616</p>
-<p class="intro">Phone: 312-927-0742</p>
-<p class="intro">whuang23@hawk.iit.edu</p>
+<p class ="intro">3303 S State Street,Chicago</p>
+<p class ="intro">IL,60616</p>
+<p class ="intro">Phone: 312-927-0742</p>
+<p class ="intro">whuang23@hawk.iit.edu</p>
 </div>
 
 
-<div id="menu">
-<h2 class="item">Menu</h2>
-<a class="choosen" href ="index.html">Resume</a>
+<div id ="menu">
+<h2 class ="item">Menu</h2>
+<a class ="choosen" href ="index.html">Resume</a>
 
-<a href="portfolio.html">Protfolio</a>
+<a href ="portfolio.html">Protfolio</a>
 </div>
 
 <div id="text">
